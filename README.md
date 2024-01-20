@@ -9,7 +9,7 @@
 ---
 
 <h1>Introductuion</h1>
-A startup is defined as a newly established company that lacks sufficient funding and resources. Startups face various uncertainties and have a high failure rate, with about 9 out of 10 businesses failing. Therefore, only a minority of startups succeed, and an even smaller fraction become unicorns. This research involves the use of two different startup datasets from the Kaggle website for distinct research purposes: The first dataset is used for exploratory data analysis to summarize the characteristics of successful startups, creating a profile of successful enterprises, thereby providing entrepreneurial advice for new business founders. With the second dataset, machine learning methods are employed to develop a binary classification model capable of predicting the success rate of startups. The model is further optimized and evaluated, providing investment guidance for investors.
+This research explores two Kaggle startup datasets: the first for exploratory data analysis to identify traits of successful startups, offering insights for new entrepreneurs; the second for developing and optimizing a binary classification model using machine learning, aimed at predicting startup success rates, thus guiding investor decisions.
 
 ---
 
