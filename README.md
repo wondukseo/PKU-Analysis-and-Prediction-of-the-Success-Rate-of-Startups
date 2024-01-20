@@ -17,7 +17,7 @@ This research explores two Kaggle startup datasets: the first for exploratory da
 
 ---
 
-##Objectives
+## Objectives
 
 * <b>Startup Success Analysis</b>: Perform exploratory data analysis on a startup dataset, pinpointing critical success and failure factors for strategic entrepreneurial guidance.
 
