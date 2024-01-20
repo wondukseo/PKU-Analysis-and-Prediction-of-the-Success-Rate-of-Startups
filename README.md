@@ -1,4 +1,4 @@
-![image](https://github.com/MarsSeo/Analysis-and-Prediction-of-the-Success-Rate-of-Startups/assets/103374757/dd4c8e6e-3bcb-4a24-8ab1-8f4e89d21795)# Analysis-and-Prediction-of-the-Success-Rate-of-Startups
+# Analysis-and-Prediction-of-the-Success-Rate-of-Startups
 
 ---
 
