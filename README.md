@@ -8,7 +8,7 @@
 
 ---
 
-<h2>Introductuion</h2>
+## Introductuion
 This research explores two Kaggle startup datasets: the first for exploratory data analysis to identify traits of successful startups, offering insights for new entrepreneurs; the second for developing and optimizing a binary classification model using machine learning, aimed at predicting startup success rates, thus guiding investor decisions.
 
 <p align="center">
@@ -17,7 +17,7 @@ This research explores two Kaggle startup datasets: the first for exploratory da
 
 ---
 
-<h2>Objectives</h2>
+##Objectives
 
 * <b>Startup Success Analysis</b>: Perform exploratory data analysis on a startup dataset, pinpointing critical success and failure factors for strategic entrepreneurial guidance.
 
