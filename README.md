@@ -15,7 +15,11 @@ A startup is defined as a newly established company that lacks sufficient fundin
 
 <h1>Objectives</h1>
 
-* This research conducts exploratory data analysis on a startup dataset, identifying key factors influencing startup success or failure to provide strategic advice for entrepreneurs. 
-* Here, we employ machine learning techniques, comparing multiple models with untuned hyperparameters, then fine-tuning the top two models using cross-validation to mitigate overfitting, ultimately combining them into a Voting Classifier for reliable startup success predictions, guiding both entrepreneurs and investors.
+* <b>Startup Success Analysis</b>: Perform exploratory data analysis on a startup dataset, pinpointing critical success and failure factors for strategic entrepreneurial guidance.
+
+* <b>Machine Learning Model Development</b>: Compare various untuned models, then refine the top two using cross-validation to combat overfitting.
+
+* <b>Predictive Success Modeling</b>: Merge the best models into a Voting Classifier, delivering robust startup success predictions for entrepreneurs and investors.
+
 
 
